@@ -57,7 +57,7 @@ Squares(num);
 /*
 Console.Clear();
 
-int PalindromNumber (int number)
+void PalindromNumber (int number)
     {
         int old_number = number;
         int reverse = 0;
